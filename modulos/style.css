@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+
+select, option {
+	font-size:24px;
+	width:100%
+}
+
+div {
+	margin:30px;
+}
+
+h1 {
+	text-align:center;
+}

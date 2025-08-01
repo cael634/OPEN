@@ -1,0 +1,4 @@
+.sy-controls li a:after {
+    content: "";
+    background-image: url(https://cdnjs.cloudflare.com/ajax/libs/slippry/1.4.0/images/arrows.svg);
+}
