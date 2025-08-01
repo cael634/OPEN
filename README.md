@@ -39,9 +39,9 @@ OPEN facilita la transformación digital de empresas alimenticias en Latinoamér
 ## 📱 Interfaz Móvil
 
 <div align="center">
-  <img src="./assets/app_screenshots/catalogo.png" width="200"/>
-  <img src="./assets/app_screenshots/pedido.png" width="200"/>
-  <img src="./assets/app_screenshots/estado_pedido.png" width="200"/>
+  <img src="./images/assets/indexopen.png" width="200"/>
+  <img src="./images/assets/opentable" width="200"/>
+  <img src="./images/assets/pedidosopen.png" width="200"/>
 </div>
 
 ---
@@ -49,8 +49,8 @@ OPEN facilita la transformación digital de empresas alimenticias en Latinoamér
 ## 💻 Panel Web Administrativo
 
 <div align="center">
-  <img src="./assets/web_dashboard/panel_productos.png" width="400"/>
-  <img src="./assets/web_dashboard/estadisticas.png" width="400"/>
+  <img src="./images/assets/estadisticasopen.png" width="400"/>
+  <img src="./images/assets/tablaopen.png" width="400"/>
 </div>
 
 ---
