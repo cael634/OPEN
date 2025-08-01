@@ -40,7 +40,7 @@ OPEN facilita la transformación digital de empresas alimenticias en Latinoamér
 
 <div align="center">
   <img src="./images/assets/indexopen.png" width="200"/>
-  <img src="./images/assets/opentable" width="200"/>
+  <img src="./images/assets/opentable.png" width="200"/>
   <img src="./images/assets/pedidosopen.png" width="200"/>
 </div>
 
