@@ -10,6 +10,7 @@ OPEN es una plataforma web y móvil que digitaliza el proceso de ventas, pedidos
 ## 🎬 Demo en Video
 
 📺 Mira la demo completa en YouTube:  
+
 [![Ver demo en YouTube](https://img.youtube.com/vi/HUlIzbOActk/hqdefault.jpg)](https://youtu.be/HUlIzbOActk)
 
 
