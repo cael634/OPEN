@@ -1,6 +1,0 @@
-# Ignorar carpetas comunes
-node_modules/
-.env
-*.log
-configs/funciones.php
-build/
