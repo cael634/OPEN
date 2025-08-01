@@ -1,6 +1,6 @@
 # 📦 OPEN – Plataforma de Logística y Pedidos para Empresas de Alimentos
 
-![Banner](./assets/open_banner.png)
+![Banner](./images/assets/intro.png)
 
 OPEN es una plataforma web y móvil que digitaliza el proceso de ventas, pedidos, entregas y análisis para empresas del sector alimenticio. Con más de **30.000 descargas**, hemos ayudado a conectar empresas distribuidoras con sus clientes de forma más eficiente.
 
