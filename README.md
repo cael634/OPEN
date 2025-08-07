@@ -11,7 +11,7 @@ OPEN es una plataforma web y móvil que digitaliza el proceso de ventas, pedidos
 
 [![Ver demo en YouTube](https://img.youtube.com/vi/HUlIzbOActk/hqdefault.jpg)](https://youtu.be/HUlIzbOActk)
 
-[![Disponible en Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/es_badge_web_generic.png)]([https://play.google.com/store/apps/details?id=TU.PAQUETE.AQUI](https://play.google.com/store/apps/details?id=com.wOPEN_10934662))
+[![Disponible en Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/es_badge_web_generic.png)]([https://play.google.com/store/apps/details?id=com.wOPEN_10934662])
 
 ---
 
